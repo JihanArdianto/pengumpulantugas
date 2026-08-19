@@ -1,8 +1,8 @@
 # Contoh Tugas
 
-Nama: [Isi nama kamu]
-NIM/Kelas: [Isi NIM atau kelas]
-Mata Kuliah: [Isi nama mata kuliah]
+Nama: Jihan Ardiianto
+NIM/Kelas: XII RPL 3
+Mata Kuliah: RPL
 
 ## Deskripsi
 Ini adalah contoh file tugas yang diupload ke repository GitHub `pengumpulantugas`.
